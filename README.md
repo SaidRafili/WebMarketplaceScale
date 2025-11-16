@@ -103,5 +103,3 @@ Execute the script from your terminal:
 
 ```bash
 python size.py
-[can you give me a downloadable readme file contai....xlsx](https://github.com/user-attachments/files/23568543/can.you.give.me.a.downloadable.readme.file.contai.xlsx)
-
