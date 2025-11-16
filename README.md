@@ -103,11 +103,5 @@ Execute the script from your terminal:
 
 ```bash
 python size.py
+[can you give me a downloadable readme file contai....xlsx](https://github.com/user-attachments/files/23568543/can.you.give.me.a.downloadable.readme.file.contai.xlsx)
 
-Column,Description
-domain,The domain name that was processed.
-alive,True or False based on whether the domain responded.
-homepage_kb,The size of the homepage's HTML in kilobytes.
-internal_links,The total number of internal links found on the homepage.
-indexed_pages_est,The estimated number of indexed pages (from heuristic or SERP API).
-visitors_est_monthly,The final estimated number of monthly visitors.
